@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: e82199d0d6599314b98cbbeb776e8f94
+guid: b2d837a2e2aa38f4fb3ad361475f1a53
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -8,9 +8,9 @@ TrueTypeFontImporter:
   characterSpacing: 0
   characterPadding: 1
   includeFontData: 1
-  fontName: DragonQuestFC
+  fontName: PixelMplus10
   fontNames:
-  - DragonQuestFC
+  - PixelMplus10
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
